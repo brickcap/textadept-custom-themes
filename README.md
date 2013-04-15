@@ -26,4 +26,4 @@ For instance
 
 Prominent comments, green strings,red keywords on white background and black text.
 
-[!green mango]("http://farm9.staticflickr.com/8259/8652376790_b059161726_b.jpg")
+![green mango](http://farm9.staticflickr.com/8259/8652376790_b059161726_b.jpg)
