@@ -32,7 +32,7 @@ l.style_variable    = style{fore = l.colors.tomato, back= l.colors.white, italic
 -- Default styles.
 
 local font_face = '!Bitstream Vera Sans Mono'
-local font_size = 10
+local font_size = 14
 if WIN32 then
   font_face = '!Courier New'
 elseif OSX then
