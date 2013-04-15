@@ -43,7 +43,7 @@ end
 
 l.style_default = style{
 font = font_face,
-sixe = font_size,
+size = font_size,
 fore= l.colors.black,
 back= l.colors.white
 }

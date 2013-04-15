@@ -12,4 +12,4 @@ Every theme in *textadept* consits of three files
 2. lexer.lua
 3. view.lua
 
-lexer.lua is the one that contains all the styles of the
+lexer.lua is the one that contains the styles that will be used by the lexer in *textadept*
