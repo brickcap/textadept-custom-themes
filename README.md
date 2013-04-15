@@ -17,6 +17,7 @@ lexer.lua is the one that contains the styles that will be used by the lexer in 
 For instance
 
 *l.style_comment* can be used to customize how comments are displayed in *textadept*.
+
 *l.style_string*  can be used to customize how strings are displayed in *textadept*
 
 
